@@ -9,7 +9,7 @@ public class Metody {
 		System.out.println("Start");
 		//System.out.println("Vysledek operace: " + vypisCislo(789.56));
 		
-		System.out.println("Pocet delitelu je: " + vypisDelitelu(20));
+		System.out.println("Pocet delitelu je: " + vypisDelitelu(2048));
 		System.out.println("KONEC");
 	}
 	
